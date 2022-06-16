@@ -1,0 +1,13 @@
+
+[submodule "react-tic-tac-toe"]
+	path = react-tic-tac-toe
+	url = git@github.com:alineayumi/react-tic-tac-toe.git
+	branch = main
+[submodule "react-tic-tac-toe-boilerplate"]
+	path = react-tic-tac-toe-boilerplate
+	url = git@github.com:alineayumi/react-tic-tac-toe-boilerplate.git
+	branch = main
+[submodule "portfolio"]
+	path = portfolio
+	url = git@github.com:alineayumi/portfolio.git
+	branch = main

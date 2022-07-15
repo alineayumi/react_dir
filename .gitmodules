@@ -11,3 +11,7 @@
 	path = portfolio
 	url = git@github.com:alineayumi/portfolio.git
 	branch = main
+[submodule "calend3"]
+	path = calend3
+	url = git@github.com:alineayumi/web3_calendly_app.git
+	branch = main

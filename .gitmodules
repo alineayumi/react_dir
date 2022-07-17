@@ -15,3 +15,7 @@
 	path = calend3
 	url = git@github.com:alineayumi/web3_calendly_app.git
 	branch = main
+[submodule "my-wave-portal"]
+	path = my-wave-portal
+	url = git@github.com:alineayumi/my-wave-portal.git
+	branch = main
